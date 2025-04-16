@@ -1,7 +1,7 @@
 # Blog
 I am a student from the University of Queensland. In this blog, I'll be posting some of my notes for METR4201 control engineering.
 <p align="center">
-  <img src="https://github.com/FOAGF/FOAGF.github.io/blob/main/48708089.jpg" width="300">
+  <img src="./48708089.jpg" width="300">
 </p>
 <hr>
 
