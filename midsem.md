@@ -1,0 +1,13 @@
+#### Random formulas
+- Inertia $I=mr^2$
+- Spring function: $f=kx$ k is spring variable and x is distance
+- Damping function: $f=c\times\delta x$ c is damping variable
+- Laplace transform with $f(t)=a\times u(t+b)$  $F(s)=a\times (1/s)\times exp(b\times s)$   
+- L'Hopital Law can be applied multiple times
+- Forced Response(*That is these terms with s in the Laplace domain*), Free Response(*Otherwise*)
+- Resistor: $R=V/I$ Capacitor: $V=1/C\times \int Idt$     Inductor: $V=LI'$ 
+- Time response: *If Laplace transform, need to revert first.*
+- Pendulum: *Consider not only gravity, but also remember there are two forces which one of them is along the pendulum swing and the other is orthogonal to it. The one along the swing is $L(\theta')^2$ and the one orthogonal is $L\theta''$* 
+- Manual Laplace transform: (*REMEMBER BY PART*) $\int^b_a u(x)v'(x)dx=\int udv=uv-\int vu'$  
+- For some random thing running around a pivot point use $a\theta$ as the acceleration 
+- *Remember to use matrix so solve system for input and outputs*
